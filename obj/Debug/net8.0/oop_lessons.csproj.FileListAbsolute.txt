@@ -1,0 +1,14 @@
+C:\Users\monro\source\repos\oop_lessons\bin\Debug\net8.0\oop_lessons.exe
+C:\Users\monro\source\repos\oop_lessons\bin\Debug\net8.0\oop_lessons.deps.json
+C:\Users\monro\source\repos\oop_lessons\bin\Debug\net8.0\oop_lessons.runtimeconfig.json
+C:\Users\monro\source\repos\oop_lessons\bin\Debug\net8.0\oop_lessons.dll
+C:\Users\monro\source\repos\oop_lessons\bin\Debug\net8.0\oop_lessons.pdb
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\oop_lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\oop_lessons.AssemblyInfoInputs.cache
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\oop_lessons.AssemblyInfo.cs
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\oop_lessons.csproj.CoreCompileInputs.cache
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\oop_lessons.dll
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\refint\oop_lessons.dll
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\oop_lessons.pdb
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\oop_lessons.genruntimeconfig.cache
+C:\Users\monro\source\repos\oop_lessons\obj\Debug\net8.0\ref\oop_lessons.dll
